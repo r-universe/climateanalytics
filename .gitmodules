@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RGN"]
+	path = RGN
+	url = https://github.com/climateanalytics/rgn
 [submodule "foreSIGHT"]
 	path = foreSIGHT
 	url = https://github.com/climateanalytics/foresight
